@@ -1,0 +1,180 @@
+﻿{
+  "Version": 0,
+  "Name": "Design",
+  "Description": "",
+  "Image": "",
+  "Page": 0,
+  "Priority": 2,
+  "Type": "Single",
+  "DefaultSettings": 0,
+  "Options": [
+    {
+      "Name": "Vibe - Venue",
+      "Description": "",
+      "Files": {
+        "chara/equipment/e6191/texture/c0201e6191_top_b_id.tex": "chara\\textures\\z_top_b_id_vibe.tex",
+        "chara/equipment/e6191/texture/c0201e6191_top_c_id.tex": "chara\\textures\\z_top_c_id_vibe.tex",
+        "chara/equipment/e0774/texture/c0201e0774_dwn_b_id.tex": "chara\\textures\\z_dwn_b_id_vibe.tex",
+        "chara/equipment/e6191/texture/c0101e6191_top_e_id.tex": "chara\\textures\\z_top_e_id_vibe.tex"
+      },
+      "FileSwaps": {},
+      "Manipulations": []
+    },
+    {
+      "Name": "Vibe - Milk",
+      "Description": "",
+      "Files": {
+        "chara/equipment/e6191/texture/c0201e6191_top_b_id.tex": "chara\\textures\\z_top_b_id_milk.tex",
+        "chara/equipment/e6191/texture/c0201e6191_top_c_id.tex": "chara\\textures\\z_top_c_id_milk.tex",
+        "chara/equipment/e0774/texture/c0201e0774_dwn_b_id.tex": "chara\\textures\\z_dwn_b_id_milk.tex",
+        "chara/equipment/e6191/texture/c0101e6191_top_e_id.tex": "chara\\textures\\z_top_e_id_milk.tex"
+      },
+      "FileSwaps": {},
+      "Manipulations": []
+    },
+    {
+      "Name": "Staff - Greeter",
+      "Description": "",
+      "Files": {
+        "chara/equipment/e6191/texture/c0201e6191_top_b_id.tex": "chara\\textures\\z_top_b_id_greeter.tex",
+        "chara/equipment/e6191/texture/c0201e6191_top_c_id.tex": "chara\\textures\\z_top_c_id_greeter.tex",
+        "chara/equipment/e0774/texture/c0201e0774_dwn_b_id.tex": "chara\\textures\\z_dwn_b_id_greeter.tex",
+        "chara/equipment/e6191/texture/c0101e6191_top_e_id.tex": "chara\\textures\\z_top_e_id_greeter.tex"
+      },
+      "FileSwaps": {},
+      "Manipulations": []
+    },
+    {
+      "Name": "Staff - Security",
+      "Description": "",
+      "Files": {
+        "chara/equipment/e6191/texture/c0201e6191_top_b_id.tex": "chara\\textures\\z_top_b_id_security.tex",
+        "chara/equipment/e6191/texture/c0201e6191_top_c_id.tex": "chara\\textures\\z_top_c_id_security.tex",
+        "chara/equipment/e0774/texture/c0201e0774_dwn_b_id.tex": "chara\\textures\\z_dwn_b_id.tex",
+        "chara/equipment/e6191/texture/c0101e6191_top_e_id.tex": "chara\\textures\\z_top_e_id_security.tex"
+      },
+      "FileSwaps": {},
+      "Manipulations": []
+    },
+    {
+      "Name": "Staff - Photographer",
+      "Description": "",
+      "Files": {
+        "chara/equipment/e6191/texture/c0201e6191_top_b_id.tex": "chara\\textures\\z_top_b_id_photo.tex",
+        "chara/equipment/e6191/texture/c0201e6191_top_c_id.tex": "chara\\textures\\z_top_c_id_photo.tex",
+        "chara/equipment/e0774/texture/c0201e0774_dwn_b_id.tex": "chara\\textures\\z_dwn_b_id_photo.tex",
+        "chara/equipment/e6191/texture/c0101e6191_top_e_id.tex": "chara\\textures\\z_top_e_id_photo.tex"
+      },
+      "FileSwaps": {},
+      "Manipulations": []
+    },
+    {
+      "Name": "Staff - Barkeep",
+      "Description": "",
+      "Files": {
+        "chara/equipment/e6191/texture/c0201e6191_top_b_id.tex": "chara\\textures\\z_top_b_id_bar.tex",
+        "chara/equipment/e6191/texture/c0201e6191_top_c_id.tex": "chara\\textures\\z_top_c_id_bar.tex",
+        "chara/equipment/e0774/texture/c0201e0774_dwn_b_id.tex": "chara\\textures\\z_dwn_b_id_bar.tex",
+        "chara/equipment/e6191/texture/c0101e6191_top_e_id.tex": "chara\\textures\\z_top_e_id_bar.tex"
+      },
+      "FileSwaps": {},
+      "Manipulations": []
+    },
+    {
+      "Name": "Staff - Hostess",
+      "Description": "",
+      "Files": {
+        "chara/equipment/e6191/texture/c0201e6191_top_b_id.tex": "chara\\textures\\z_top_b_id_hostess.tex",
+        "chara/equipment/e6191/texture/c0201e6191_top_c_id.tex": "chara\\textures\\z_top_c_id_hostess.tex",
+        "chara/equipment/e0774/texture/c0201e0774_dwn_b_id.tex": "chara\\textures\\z_dwn_b_id_hostess.tex",
+        "chara/equipment/e6191/texture/c0101e6191_top_e_id.tex": "chara\\textures\\z_top_e_id_hostess.tex"
+      },
+      "FileSwaps": {},
+      "Manipulations": []
+    },
+    {
+      "Name": "Staff - Host",
+      "Description": "",
+      "Files": {
+        "chara/equipment/e6191/texture/c0201e6191_top_b_id.tex": "chara\\textures\\z_top_b_id_host.tex",
+        "chara/equipment/e6191/texture/c0201e6191_top_c_id.tex": "chara\\textures\\z_top_c_id_host.tex",
+        "chara/equipment/e0774/texture/c0201e0774_dwn_b_id.tex": "chara\\textures\\z_dwn_b_id_host.tex",
+        "chara/equipment/e6191/texture/c0101e6191_top_e_id.tex": "chara\\textures\\z_top_e_id_host.tex"
+      },
+      "FileSwaps": {},
+      "Manipulations": []
+    },
+    {
+      "Name": "Staff - Court",
+      "Description": "",
+      "Files": {
+        "chara/equipment/e6191/texture/c0201e6191_top_b_id.tex": "chara\\textures\\z_top_b_id_court.tex",
+        "chara/equipment/e6191/texture/c0201e6191_top_c_id.tex": "chara\\textures\\z_top_c_id_court.tex",
+        "chara/equipment/e0774/texture/c0201e0774_dwn_b_id.tex": "chara\\textures\\z_dwn_b_id_court.tex",
+        "chara/equipment/e6191/texture/c0101e6191_top_e_id.tex": "chara\\textures\\z_top_e_id_court.tex"
+      },
+      "FileSwaps": {},
+      "Manipulations": []
+    },
+    {
+      "Name": "Staff - Manager",
+      "Description": "",
+      "Files": {
+        "chara/equipment/e6191/texture/c0201e6191_top_b_id.tex": "chara\\textures\\z_top_b_id_manager.tex",
+        "chara/equipment/e6191/texture/c0201e6191_top_c_id.tex": "chara\\textures\\z_top_c_id_manager.tex",
+        "chara/equipment/e0774/texture/c0201e0774_dwn_b_id.tex": "chara\\textures\\z_dwn_b_id_manager.tex",
+        "chara/equipment/e6191/texture/c0101e6191_top_e_id.tex": "chara\\textures\\z_top_e_id_manager.tex"
+      },
+      "FileSwaps": {},
+      "Manipulations": []
+    },
+    {
+      "Name": "Staff - DJ",
+      "Description": "",
+      "Files": {
+        "chara/equipment/e6191/texture/c0201e6191_top_b_id.tex": "chara\\textures\\z_top_b_id_dj.tex",
+        "chara/equipment/e6191/texture/c0201e6191_top_c_id.tex": "chara\\textures\\z_top_c_id_dj.tex",
+        "chara/equipment/e0774/texture/c0201e0774_dwn_b_id.tex": "chara\\textures\\z_dwn_b_id_dj.tex",
+        "chara/equipment/e6191/texture/c0101e6191_top_e_id.tex": "chara\\textures\\z_top_e_id_dj.tex"
+      },
+      "FileSwaps": {},
+      "Manipulations": []
+    },
+    {
+      "Name": "Staff - Owner",
+      "Description": "",
+      "Files": {
+        "chara/equipment/e6191/texture/c0201e6191_top_b_id.tex": "chara\\textures\\z_top_b_id_owner.tex",
+        "chara/equipment/e6191/texture/c0201e6191_top_c_id.tex": "chara\\textures\\z_top_c_id_owner.tex",
+        "chara/equipment/e0774/texture/c0201e0774_dwn_b_id.tex": "chara\\textures\\z_dwn_b_id_owner.tex",
+        "chara/equipment/e6191/texture/c0101e6191_top_e_id.tex": "chara\\textures\\z_top_e_id_owner.tex"
+      },
+      "FileSwaps": {},
+      "Manipulations": []
+    },
+    {
+      "Name": "Name - Wasa Bee",
+      "Description": "",
+      "Files": {
+        "chara/equipment/e6191/texture/c0201e6191_top_b_id.tex": "chara\\textures\\z_top_b_id_wasa.tex",
+        "chara/equipment/e6191/texture/c0201e6191_top_c_id.tex": "chara\\textures\\z_top_c_id_wasa.tex",
+        "chara/equipment/e0774/texture/c0201e0774_dwn_b_id.tex": "chara\\textures\\z_dwn_b_id_wasa.tex",
+        "chara/equipment/e6191/texture/c0101e6191_top_e_id.tex": "chara\\textures\\z_top_e_id_wasa.tex"
+      },
+      "FileSwaps": {},
+      "Manipulations": []
+    },
+    {
+      "Name": "Name - Juna Bee",
+      "Description": "",
+      "Files": {
+        "chara/equipment/e6191/texture/c0201e6191_top_b_id.tex": "chara\\textures\\z_top_b_id_juna.tex",
+        "chara/equipment/e6191/texture/c0201e6191_top_c_id.tex": "chara\\textures\\z_top_c_id_juna.tex",
+        "chara/equipment/e0774/texture/c0201e0774_dwn_b_id.tex": "chara\\textures\\z_dwn_b_id_juna.tex",
+        "chara/equipment/e6191/texture/c0101e6191_top_e_id.tex": "chara\\textures\\z_top_e_id_juna.tex"
+      },
+      "FileSwaps": {},
+      "Manipulations": []
+    }
+  ]
+}

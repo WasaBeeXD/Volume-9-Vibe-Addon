@@ -1,0 +1,32 @@
+﻿{
+  "Version": 0,
+  "Name": "Model Ports",
+  "Description": "",
+  "Image": "",
+  "Page": 0,
+  "Priority": 1,
+  "Type": "Multi",
+  "DefaultSettings": 2,
+  "Options": [
+    {
+      "Name": "Pants Yab L",
+      "Description": "",
+      "Priority": 0,
+      "Files": {
+        "chara/equipment/e0774/model/c0201e0774_dwn.mdl": "chara\\models\\c0201e0774_dwn.mdl"
+      },
+      "FileSwaps": {},
+      "Manipulations": []
+    },
+    {
+      "Name": "Hoody Neklace",
+      "Description": "",
+      "Priority": 1,
+      "Files": {
+        "chara/accessory/a0003/model/c0201a0003_nek.mdl": "chara\\models\\c0201a0003_nek.mdl"
+      },
+      "FileSwaps": {},
+      "Manipulations": []
+    }
+  ]
+}

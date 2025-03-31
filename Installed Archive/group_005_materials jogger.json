@@ -1,0 +1,39 @@
+﻿{
+  "Version": 0,
+  "Name": "Materials Jogger",
+  "Description": "",
+  "Image": "",
+  "Page": 0,
+  "Priority": 4,
+  "Type": "Single",
+  "DefaultSettings": 0,
+  "Options": [
+    {
+      "Name": "Customize me",
+      "Description": "",
+      "Files": {
+        "chara/equipment/e0774/material/v0001/mt_c0201e0774_dwn_b.mtrl": "chara\\mats\\mt_c0201e0774_dwn_b.mtrl"
+      },
+      "FileSwaps": {},
+      "Manipulations": []
+    },
+    {
+      "Name": "Vibe Black",
+      "Description": "",
+      "Files": {
+        "chara/equipment/e0774/material/v0001/mt_c0201e0774_dwn_b.mtrl": "chara\\mats\\mt_c0201e0774_dwn_b1.mtrl"
+      },
+      "FileSwaps": {},
+      "Manipulations": []
+    },
+    {
+      "Name": "Vibe Milk",
+      "Description": "",
+      "Files": {
+        "chara/equipment/e0774/material/v0001/mt_c0201e0774_dwn_b.mtrl": "chara\\mats\\mt_c0201e0774_dwn_b2.mtrl"
+      },
+      "FileSwaps": {},
+      "Manipulations": []
+    }
+  ]
+}

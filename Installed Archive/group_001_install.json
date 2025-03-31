@@ -1,0 +1,33 @@
+﻿{
+  "Version": 0,
+  "Name": "Install",
+  "Description": "",
+  "Image": "",
+  "Page": 0,
+  "Priority": 0,
+  "Type": "Single",
+  "DefaultSettings": 0,
+  "Options": [
+    {
+      "Name": "Basics",
+      "Description": "",
+      "Files": {
+        "chara/equipment/e6191/texture/c0201e6191_top_c_norm.tex": "chara\\textures\\top_c_norm.tex",
+        "chara/equipment/e6191/texture/c0201e6191_top_b_norm.tex": "chara\\textures\\z_top_b_norm.tex",
+        "chara/equipment/e0774/texture/c0201e0774_dwn_b_norm.tex": "chara\\textures\\z_dwn_b_norm.tex",
+        "chara/equipment/e6191/texture/c0201e6191_top_c_base.tex": "chara\\textures\\m_map.tex",
+        "chara/equipment/e6191/texture/c0201e6191_top_b_base.tex": "chara\\textures\\m_map.tex",
+        "chara/equipment/e0774/texture/c0201e0774_dwn_b_base.tex": "chara\\textures\\m_map.tex",
+        "chara/equipment/e6191/material/v0001/mt_c0201e6191_top_b.mtrl": "chara\\mats\\mt_c0201e6191_top_b.mtrl",
+        "chara/equipment/e6191/material/v0001/mt_c0201e6191_top_c.mtrl": "chara\\mats\\mt_c0201e6191_top_c.mtrl",
+        "chara/equipment/e0774/material/v0001/mt_c0201e0774_dwn_b.mtrl": "chara\\mats\\mt_c0201e0774_dwn_b.mtrl",
+        "chara/accessory/a0003/material/v0001/mt_c0101a0003_nek_a.mtrl": "chara\\mats\\mt_c0201e6191_top_c.mtrl",
+        "chara/equipment/e6191/texture/c0101e6191_top_e_mask.tex": "chara\\textures\\m_map.tex",
+        "chara/equipment/e6191/texture/c0101e6191_top_e_base.tex": "chara\\textures\\m_map.tex",
+        "chara/equipment/e6191/texture/c0101e6191_top_e_norm.tex": "chara\\textures\\z_top_e_normal.tex"
+      },
+      "FileSwaps": {},
+      "Manipulations": []
+    }
+  ]
+}

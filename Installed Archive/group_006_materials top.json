@@ -1,0 +1,42 @@
+﻿{
+  "Version": 0,
+  "Name": "Materials Top",
+  "Description": "",
+  "Image": "",
+  "Page": 0,
+  "Priority": 5,
+  "Type": "Single",
+  "DefaultSettings": 0,
+  "Options": [
+    {
+      "Name": "Customize me",
+      "Description": "",
+      "Files": {
+        "chara/equipment/e6191/material/v0001/mt_c0101e6191_top_e.mtrl": "chara\\mats\\mt_c0101e6191_top_e.mtrl",
+        "chara/equipment/e6191/material/v0001/mt_c0201e6191_top_b.mtrl": "chara\\mats\\mt_c0201e6191_top_b.mtrl"
+      },
+      "FileSwaps": {},
+      "Manipulations": []
+    },
+    {
+      "Name": "Vibe Black",
+      "Description": "",
+      "Files": {
+        "chara/equipment/e6191/material/v0001/mt_c0101e6191_top_e.mtrl": "chara\\mats\\mt_c0101e6191_top_e1.mtrl",
+        "chara/equipment/e6191/material/v0001/mt_c0201e6191_top_b.mtrl": "chara\\mats\\mt_c0201e6191_top_b1.mtrl"
+      },
+      "FileSwaps": {},
+      "Manipulations": []
+    },
+    {
+      "Name": "Vibe Milk",
+      "Description": "",
+      "Files": {
+        "chara/equipment/e6191/material/v0001/mt_c0101e6191_top_e.mtrl": "chara\\mats\\mt_c0101e6191_top_e2.mtrl",
+        "chara/equipment/e6191/material/v0001/mt_c0201e6191_top_b.mtrl": "chara\\mats\\mt_c0201e6191_top_b2.mtrl"
+      },
+      "FileSwaps": {},
+      "Manipulations": []
+    }
+  ]
+}
