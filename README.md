@@ -28,3 +28,6 @@ heliosphere.app/mod/yab
 
 tsar, illy and bizu for bibo+
 www.xivmodarchive.com/modid/29029
+
+---------------------------------------------------
+PMP FILE: https://github.com/WasaBeeXD/Volume-9-Vibe-Addon/blob/main/NG%20-%20Volume%209%20Addon.pmp
