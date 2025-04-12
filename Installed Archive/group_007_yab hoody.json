@@ -1,0 +1,46 @@
+﻿{
+  "Version": 0,
+  "Name": "Yab Hoody",
+  "Description": "",
+  "Image": "",
+  "Page": 0,
+  "Priority": 6,
+  "Type": "Single",
+  "DefaultSettings": 2,
+  "Options": [
+    {
+      "Name": "Nothing",
+      "Description": "",
+      "Files": {},
+      "FileSwaps": {},
+      "Manipulations": []
+    },
+    {
+      "Name": "Booth Small - Max Hood",
+      "Description": "",
+      "Files": {
+        "chara/equipment/e6191/model/c0201e6191_top.mdl": "chara\\models\\c0201e6191_top_s.mdl"
+      },
+      "FileSwaps": {},
+      "Manipulations": []
+    },
+    {
+      "Name": "Booth Medium - Max Hood",
+      "Description": "",
+      "Files": {
+        "chara/equipment/e6191/model/c0201e6191_top.mdl": "chara\\models\\c0201e6191_top.mdl"
+      },
+      "FileSwaps": {},
+      "Manipulations": []
+    },
+    {
+      "Name": "Booth Large - Max Hood",
+      "Description": "",
+      "Files": {
+        "chara/equipment/e6191/model/c0201e6191_top.mdl": "chara\\models\\c0201e6191_top_l.mdl"
+      },
+      "FileSwaps": {},
+      "Manipulations": []
+    }
+  ]
+}

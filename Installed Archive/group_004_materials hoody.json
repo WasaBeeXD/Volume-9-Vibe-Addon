@@ -29,11 +29,41 @@
       "Manipulations": []
     },
     {
+      "Name": "Vibe Inverted",
+      "Description": "",
+      "Files": {
+        "chara/equipment/e6191/material/v0001/mt_c0201e6191_top_c.mtrl": "chara\\mats\\mt_c0201e6191_top_c5.mtrl",
+        "chara/accessory/a0003/material/v0001/mt_c0101a0003_nek_a.mtrl": "chara\\mats\\mt_c0201e6191_top_c5.mtrl"
+      },
+      "FileSwaps": {},
+      "Manipulations": []
+    },
+    {
       "Name": "Vibe Milk",
       "Description": "",
       "Files": {
         "chara/equipment/e6191/material/v0001/mt_c0201e6191_top_c.mtrl": "chara\\mats\\mt_c0201e6191_top_c2.mtrl",
         "chara/accessory/a0003/material/v0001/mt_c0101a0003_nek_a.mtrl": "chara\\mats\\mt_c0201e6191_top_c2.mtrl"
+      },
+      "FileSwaps": {},
+      "Manipulations": []
+    },
+    {
+      "Name": "Mega Glow",
+      "Description": "",
+      "Files": {
+        "chara/equipment/e6191/material/v0001/mt_c0201e6191_top_c.mtrl": "chara\\mats\\mt_c0201e6191_top_c3.mtrl",
+        "chara/accessory/a0003/material/v0001/mt_c0101a0003_nek_a.mtrl": "chara\\mats\\mt_c0201e6191_top_c3.mtrl"
+      },
+      "FileSwaps": {},
+      "Manipulations": []
+    },
+    {
+      "Name": "Rainbow",
+      "Description": "",
+      "Files": {
+        "chara/equipment/e6191/material/v0001/mt_c0201e6191_top_c.mtrl": "chara\\mats\\mt_c0201e6191_top_c4.mtrl",
+        "chara/accessory/a0003/material/v0001/mt_c0101a0003_nek_a.mtrl": "chara\\mats\\mt_c0201e6191_top_c4.mtrl"
       },
       "FileSwaps": {},
       "Manipulations": []
